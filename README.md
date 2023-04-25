@@ -35,8 +35,7 @@
 
 # 📖 Hello Microverse <a name="about-project"></a>
 
-This is a portfolio website, this is the 1st project of the portafolio, as I go through the Microverse curriculum materials I'm going to complete several small projects that will combine to create a portfolio website.
-This first project will precisely replicate one of the portfolio templates provided. However, later on during the Microverse journey it will be customized and improved it to make it more unique, as well as include more of my own projects in the portfolio.
+Hello Microverse is a "Hello world" repository exercise. The goal here is to master all of the tools and best practices learned about in previous steps to use them in all Microverse projects and most likely in my future job as well.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -58,9 +57,9 @@ This first project will precisely replicate one of the portfolio templates provi
 ### Key Features <a name="key-features"></a>
 
 
-- **Use of Flexbox**
-- **Mobile first**
-- **Responsiveness**
+- **Use of linters**
+- **Showcase of branching and pull request**
+- **Example of profesional best practices**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,7 +68,7 @@ This first project will precisely replicate one of the portfolio templates provi
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-### <a href="">Not yet available</a>
+### No Live demo available.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,7 +99,7 @@ No installation is required for this project.
 
 ### Usage
 
-To run the project, open the *index.html* of the clone repository or go to the <a href="https://pulgosodog.github.io/Portfolio-setup-and-mobile-first/">live demo</a>.
+To run the project, open the *index.html* of the clone repository locally.
 
 
 ### Run tests
@@ -129,7 +128,7 @@ The project can be deployed to a hosting service.
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-Use of Media Query implementation for a desktop version.
+This is the final build.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
